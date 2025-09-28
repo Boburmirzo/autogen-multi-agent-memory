@@ -1,6 +1,6 @@
-# Autogen Multi-agent Conversation and Recall using Memori
+# AutoGen Multi-agent Conversation and Recall using Memori
 
-This repository contains a Jupyter Notebook demonstrating how to create memory-enhanced [Autogen](https://github.com/microsoft/autogen) AI agents using the **[Memori](https://github.com/GibsonAI/memori)** memory engine. The example builds a consulting team of AI agents that can remember and build upon past conversations, making interactions more intelligent and context-aware.
+This repository contains a Jupyter Notebook demonstrating how to create memory-enhanced [AutoGen](https://github.com/microsoft/autogen) AI agents using the **[Memori](https://github.com/GibsonAI/memori)** memory engine. The example builds a consulting team of AI agents that can remember and build upon past conversations, making interactions more intelligent and context-aware.
 
 ## Features
 - **Persistent Memory**: Agents remember conversations across sessions.
